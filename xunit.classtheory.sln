@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunit.ClassTheory", "xunit.ClassTheory.csproj", "{55035EC3-8803-42DA-AA32-27324CA87BF9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunit.classtheory", "xunit.classtheory\xunit.classtheory.csproj", "{55035EC3-8803-42DA-AA32-27324CA87BF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunit.ClassTheory.Tests", "..\xunit.ClassTheory.Tests\xunit.ClassTheory.Tests.csproj", "{445AF82C-9C4C-4011-A526-73AC8B19CE01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunit.classtheory.tests", "xunit.classtheory.tests\xunit.classtheory.tests.csproj", "{445AF82C-9C4C-4011-A526-73AC8B19CE01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

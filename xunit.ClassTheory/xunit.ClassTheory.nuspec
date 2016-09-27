@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>xunit.ClassTheory</id>
+    <id>xunit.classtheory</id>
     <version>$version$</version>
-    <title>xunit.ClassTheory</title>
+    <title>xunit.classtheory</title>
     <authors>Asger Hallas</authors>
     <owners>Asger Hallas</owners>
     <projectUrl>http://github.com/asgerhallas/xunit.ClassTheory</projectUrl>
