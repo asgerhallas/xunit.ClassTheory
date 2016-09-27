@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>xunit.ClassTheory</id>
+    <version>$version$</version>
+    <title>xunit.ClassTheory</title>
+    <authors>Asger Hallas</authors>
+    <owners>Asger Hallas</owners>
+    <projectUrl>http://github.com/asgerhallas/xunit.ClassTheory</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Parameterized tests with constructor injections - easily test all implementations of an interface.</description>
+    <copyright>Copyright 2016</copyright>
+  </metadata>
+</package>
